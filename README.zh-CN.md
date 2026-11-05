@@ -11,7 +11,7 @@
 - `pen` 模块及根模块重导出的事件类型可在各平台构建；原生 `ink` 模块仅在 Windows 上提供。
 - 当前后端为 Windows Ink / `WM_POINTER`，尚未实现 WinTab。
 - 项目使用 Rust edition 2024、`windows` 0.62 和 `thiserror` 2；winit 0.30 仅作为 Windows 示例依赖。
-- 底层 Pointer API 自 Windows 8 提供，但 Rust 工具链、依赖和应用可能要求更新的系统，不能据此认定示例支持 Windows 8。
+- 底层 Pointer API 自 Windows 8 提供，但 Rust 工具链、依赖和应用可能要求更新的系统。
 
 ## 快速接入
 
