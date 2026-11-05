@@ -16,7 +16,7 @@ The library works independently of winit, WinUI, and rendering frameworks. Windo
 - The `pen` module and its root re-exports build on every platform. The native `ink` module is available only on Windows.
 - The current backend is Windows Ink / `WM_POINTER`. WinTab is not implemented.
 - The project uses Rust edition 2024, `windows` 0.62, and `thiserror` 2. Winit 0.30 is a Windows example dependency.
-- The underlying pointer APIs are available from Windows 8; the Rust toolchain, dependencies, and application can require a newer system. This is not a guarantee that the examples run on Windows 8.
+- The underlying pointer APIs are available from Windows 8; the Rust toolchain, dependencies, and application can require a newer system.
 
 ## Quick start
 
