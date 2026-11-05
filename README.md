@@ -1,4 +1,9 @@
 # tablet-input-windows
+![Crates.io Version](https://img.shields.io/crates/v/tablet-input-windows)
+![docs.rs](https://img.shields.io/docsrs/tablet-input-windows)
+![Crates.io License](https://img.shields.io/crates/l/tablet-input-windows)
+![GitHub last commit](https://img.shields.io/github/last-commit/nope-e/tablet-input-windows)
+
 
 English | [简体中文](README.zh-CN.md)
 
