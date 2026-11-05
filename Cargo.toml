@@ -6,7 +6,6 @@ description = "Framework-independent Windows pen input through WM_POINTER"
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/nope-e/tablet-input-windows"
-homepage = "https://github.com/nope-e/tablet-input-windows"
 
 [package.metadata.docs.rs]
 default-target = "x86_64-pc-windows-msvc"
